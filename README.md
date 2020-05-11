@@ -27,12 +27,14 @@ under revision
   - Concepts-based courses: Class time includes 1) Lecture and/or discussion on foundational understanding of concepts, 2) example applications of concepts 
   
 - Timing and scheduling
-  - Concepts courses: four one hour sessions, one to two sessions pwe week
+  - Concepts courses: four one hour sessions, one to two sessions per week
   - Technical courses: four two hour sessions (ten minute break in the middle), one to two sessions per week
 
 - Learning objectives: each course has a well-articulated, specific audience and clear learning objectives, with associated objectives for each lesson
 
 - Courses should be reproducible, in that instructors can pick up the material and teach with little additional preparation needed, with course content available in a GitHub repository in the fredhutchio organization and listings on our website
+  - Slides are included where applicable (especially for concepts courses), but instructors should also feel free to show images from the GitHub materials
+  - instrutor notes are available in each repo, as well as the [Instructor notes](https://github.com/fredhutchio/instructors) repo
 
 
 ## Developing new course content
