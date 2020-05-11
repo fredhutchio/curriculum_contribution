@@ -20,12 +20,26 @@ please see our [repository of instructor notes](https://github.com/fredhutchio/i
 under revision
 
 
+## Requirements for fredhutch.io courses
+
+- Course Types
+  - Technical/skills-based classes: Class time includes 1) short explanations of main concepts, 2) live demos of technical skills, during which learners follow along (when applicable), 3) challenge/practice exercises (I do, we do, you do)
+  - Concepts-based courses: Class time includes 1) Lecture and/or discussion on foundational understanding of concepts, 2) example applications of concepts 
+  
+- Timing and scheduling
+  - Concepts courses: four one hour sessions, one to two sessions pwe week
+  - Technical courses: four two hour sessions (ten minute break in the middle), one to two sessions per week
+
+- Learning objectives: each course has a well-articulated, specific audience and clear learning objectives, with associated objectives for each lesson
+
+- Courses should be reproducible, in that instructors can pick up the material and teach with little additional preparation needed, with course content available in a GitHub repository in the fredhutchio organization and listings on our website
+
+
 ## Developing new course content
 
 - What other materials are currently available? What licenses do these materials include?
   - Carpentries
   - tutorials and vignettes from software packages
-
 
 ### Courses in development
 
