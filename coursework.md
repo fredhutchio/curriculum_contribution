@@ -1,6 +1,15 @@
-# Developing and contributing to fredhutch.io courses
+# Short courses from fredhutch.io
 
-## Requirements for fredhutch.io courses
+Courses represent an overview of a specific topic,
+and possess the following characteristics:
+- non-linear in narrative, and explore data or techniques along with common "gotchas" and "ifs"
+- integrate across potential use cases and list options relevant to multiple analyses
+- includes challenge exercises
+- although code can be exported, it does not translate specifically to production-level scripts (includes interactive and exploratory code)
+
+FIXME: instructor-led and work-at-your-own pace
+
+## Pedagogical requirements for fredhutch.io courses
 
 - Course Types
   - Technical/skills-based classes: Class time includes 1) short explanations of main concepts, 2) live demos of technical skills, during which learners follow along (when applicable), 3) challenge/practice exercises (I do, we do, you do)
@@ -66,7 +75,7 @@ both the entire course *and* each individual class should have 3-5 learning obje
 The class learning objectives should roughly map to the course objectives.
 It helps to think about learning objectives as forming a united narrative leading participants to a specific point at the end of the course.
 
-### What is the course format?
+### What is the course schedule?
 
 Course scheduling,
 including frequency and duration of courses,
@@ -84,3 +93,11 @@ Some ways to manage this include:
 - using challenge exercises to touch on useful, 
 but perhaps out-of-scope,
 ideas
+
+### What happens during class?
+
+FIXME: in-class activities, additional resources
+
+### What's the next step after the course?
+
+FIXME: follow-up classes, SciWiki resources, other groups at FH

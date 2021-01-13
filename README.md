@@ -1,34 +1,34 @@
 # Contributing to fredhutch.io curriculum development
 
-This repository includes information on contributing to training materials developed and maintained by [fredhutch.io](http://fredhutch.io) and [the Coop](http://thecoop.fredhutch.org).
-Training materials include both formally-structured [short courses](#courses)
-and [practice projects](#practice-projects).
-Please see the subheading of each to understand how these different types of materials are developed.
+This repository includes information on contributing to training materials developed and maintained by [fredhutch.io](http://fredhutch.io) and [the Coop](http://thecoop.fredhutch.org):
+
+  - [Active courses](#active-courses)
+  - [Courses in development](#courses-in-development)
+  - [Practice projects](#practice-projects)
+
+The following pages include specific information about how and why our materials are created and maintained:
+
+- [Coursework](coursework): formally-structured short courses that provide a general overview of an area (requirements and how to develop)
+- [Practice projects](practice_projects): demonstrate how data and coding concepts integrate in a project (requirements and how to develop)
+- [Technical and logistical considerations for developing materials](technical)
+- [Additional resources and supplemental reading](resources)
 
 For information on preparing for and teaching fredhutch.io lessons,
 please see our [repository of instructor notes](https://fredhutchio.github.io/instructors).
 
-## Courses
+## Active courses
 
-Courses represent an overview of a specific topic,
-and possess the following characteristics:
-- non-linear in narrative, and explore data or techniques along with common "gotchas" and "ifs"
-- integrate across potential use cases and list options relevant to multiple analyses
-- includes challenge exercises
-- although code can be exported, it does not translate specifically to production-level scripts (includes interactive and exploratory code)
+The links below are to the rendered website for each course.
+Click on the button in the upper right hand of each website to
+view the GitHub repository containing the source for each course.
 
-The links below are for the GitHub repositories containing course materials.
-The link to learner-facing, rendered materials are available on the right-hand side of the repository under **About**.
-
-### Active courses
-
-- [Introduction to R](https://github.com/fredhutchio/r_intro)
-- [Introduction to Python](https://github.com/fredhutchio/python_intro)
-- [Introduction to Git and GitHub](https://github.com/fredhutchio/git_github_intro)
-- [Concepts in Machine Learning](https://github.com/fredhutchio/concepts_machine_learning) (under revision)
-- [Intermediate Python: Machine Learning](https://github.com/fredhutchio/python_machine_learning) (under revision)
-- [Intermediate Python: Programming](https://github.com/fredhutchio/python_programming)
-- [Data for Data Science](https://github.com/fredhutchio/data_for_data_science) 
+- [Introduction to R](https://fredhutchio.github.io/r_intro/)
+- [Introduction to Python](https://fredhutchio.github.io/python_intro/)
+- [Introduction to Git and GitHub](https://fredhutchio.github.io/git_github_intro/)
+- [Concepts in Machine Learning](https://fredhutchio.github.io/concepts_machine_learning/) (under revision)
+- [Intermediate Python: Machine Learning](https://fredhutchio.github.io/python_machine_learning/) (under revision)
+- [Intermediate Python: Programming](https://fredhutchio.github.io/python_programming/)
+- [Data for Data Science](https://fredhutchio.github.io/data_for_data_science/) 
 (under revision)
 
 ## Courses in development
@@ -46,18 +46,5 @@ The link to learner-facing, rendered materials are available on the right-hand s
 
 ## Practice projects
 
-Practice projects provide challenge exercises,
-code examples,
-and prompts to create complete projects,
-which support learners at various levels of expertise.
-
-Practice projects possess the following characteristics:
-- includes challenge exercises
-- code equivalent of a manuscript ready for submission
-- linear in narrative
-- focus on a single analysis and justify the best options for a particular analysis
-
-### Practice projects in development
-
-- [COVID19](https://github.com/fredhutchio/practice-covid)
-- [Machine Learning](https://github.com/fredhutchio/python_data_viz)
+- [COVID19](https://github.com/fredhutchio/practice-covid) (in development)
+- [Machine Learning](https://github.com/fredhutchio/python_data_viz) (in development)

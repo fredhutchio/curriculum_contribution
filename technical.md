@@ -2,11 +2,16 @@
 
 ## Choosing suggested IDEs and interfaces
 
-FIXME
+FIXME: balancing ease of transmitting information
 
 ## Rendering of materials for a general audience
 
-FIXME
+FIXME: gh-pages rendering
+
+GitHub repositories contain course materials
+
+The link to learner-facing, rendered materials are available on the right-hand side of the GitHub repository page under **About**.
+For an example, see [this repository](https://github.com/fredhutchio/curriculum_contribution).
 
 ## Reusing other materials
 
