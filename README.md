@@ -12,6 +12,7 @@ The following pages include specific information about how and why our materials
 - [Practice projects](practice_projects): demonstrate how data and coding concepts integrate in a project (requirements and how to develop)
 - [Technical and logistical considerations for developing materials](technical)
 - [Additional resources and supplemental reading](resources)
+- [Roles and responsibilities for curriculum development](responsibilities)
 
 For information on preparing for and teaching fredhutch.io lessons,
 please see our [repository of instructor notes](https://fredhutchio.github.io/instructors).
